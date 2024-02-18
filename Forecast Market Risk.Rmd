@@ -1,5 +1,4 @@
 ---
-title: "Problem Set 3"
 date: "ECO374"
 output: pdf_document
 urlcolor: blue
