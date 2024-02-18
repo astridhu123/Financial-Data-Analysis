@@ -1,6 +1,5 @@
 ---
-title: "Problem Set 2"
-date: "ECO374"
+title: "time series modeling"
 output: pdf_document
 urlcolor: blue
 geometry: margin=0.75in
