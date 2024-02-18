@@ -1,5 +1,5 @@
 ---
-date: "ECO374"
+title: "Forecast Market Risk"
 output: pdf_document
 urlcolor: blue
 geometry: margin=0.75in
